@@ -1,6 +1,9 @@
 # Project exclude paths
 /venv/
+/__pycache__/
 /debug_errors/
 /SOFT_DESIGN/
 /empty_folder/
 /.idea/
+Cap.exe
+
