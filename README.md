@@ -28,6 +28,6 @@
 ..\dist\ARNEG_ESMS - скомпилированные утилиты<br/>
 ..\PICS - фото центрального монитора<br/>
 
-<p style="color:DodgerBlue;">Lorem ipsum...</p>
+<p style="color:#FF0000;">Lorem ipsum...</p>
 
 
