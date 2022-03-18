@@ -1,4 +1,5 @@
-# ARN_SUITE (## .ru_ru)
+# ARN_SUITE 
+## .ru_ru
 
 Набор утилит ARN_SUITE
 
@@ -31,7 +32,6 @@
 ---
 
 # ARN_SUITE
-# ---------
 ## .en_en
 
 
