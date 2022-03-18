@@ -1,20 +1,20 @@
 # ARN_SUITE 
-## .ru_ru
+(ru_ru)
 
 Набор утилит ARN_SUITE
 
 ### Назначение:
 
-Контроль работы за промышленным оборудованием. Данные собираются с локальных станций сбора данных
+Контроль (мониторинг) работы промышленного оборудованием. Данные собираются с локальных станций сбора данных
 по протоколу OPC UA и аккумулируются в БД PostgreSQL
 
 ### Состав:
 
 Набор утилит включает три утилиты:
 
-- **argate.exe** - запускатеся на центральной машине-сервере, опрашивает станции сбора данных,
+- **argate.exe** - запускается на центральной машине-сервере, опрашивает станции сбора данных,
 сохраняет данные в БД, осуществляет автоматическую (по времени) генерацию отчётов
-(отчёты сохраняются в файлы *.xlsx и рассылаются по e-mail)
+(отчёты сохраняются в файлы \*.xlsx и рассылаются по e-mail)
 
 - **arbmon.exe** - большой центральный монтитор - запускается на клиентской машине
 (4 монитора разрешением Ultra HD 4K 3840×2160 - см.фото) на котором отображаются real-time данные
@@ -32,7 +32,24 @@
 ---
 
 # ARN_SUITE
-## .en_en
+(en_en)
+
+Utility kit ARN_SUITE
+
+### Purpose:
+
+Industrial machine tools operation online monitoring. The data is obtained from distributed local I/O stations
+via OPC UA protocol and is stored into PostgreSQL DB
+
+### Composition:
+
+THe kit includes three utility:
+
+- **argate.exe** - is deployed on the server PC, fetches data from I/O stations,
+stores the data into DB, implements automatic time-periodical report generation
+(reports are stored into \*.xlsx files and are sent via e-mail)
+
+
 
 
 
