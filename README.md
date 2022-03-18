@@ -59,7 +59,7 @@ stores the data into DB, implements automatic time-periodical report generation
 ### Auxilliary folders:
 
 **..\dist\ARNEG_ESMS** - compiled programs<br/>
-**..\PICS** - big central display on-site pitures<br/>
+**..\PICS** - big central display on-site pictures<br/>
 
 
 
