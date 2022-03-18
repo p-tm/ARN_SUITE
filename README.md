@@ -1,7 +1,7 @@
 (ru_ru)
 # ARN_SUITE 
 
-Набор утилит ARN_SUITE
+набор утилит
 
 ### Назначение:
 
@@ -34,7 +34,7 @@
 (en_en)
 # ARN_SUITE
 
-Utility kit ARN_SUITE
+utility kit
 
 ### Purpose:
 
@@ -43,7 +43,7 @@ via OPC UA protocol and is stored into PostgreSQL DB
 
 ### Composition:
 
-THe kit includes three utility:
+The kit includes three utility:
 
 - **argate.exe** - runs on the server PC, fetches data from I/O stations,
 stores the data into DB, implements automatic time-periodical report generation
