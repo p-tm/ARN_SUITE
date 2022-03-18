@@ -1,5 +1,5 @@
-# ARN_SUITE 
 (ru_ru)
+# ARN_SUITE 
 
 Набор утилит ARN_SUITE
 
@@ -31,8 +31,8 @@
 
 ---
 
-# ARN_SUITE
 (en_en)
+# ARN_SUITE
 
 Utility kit ARN_SUITE
 
