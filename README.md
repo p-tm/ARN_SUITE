@@ -45,9 +45,21 @@ via OPC UA protocol and is stored into PostgreSQL DB
 
 THe kit includes three utility:
 
-- **argate.exe** - is deployed on the server PC, fetches data from I/O stations,
+- **argate.exe** - runs on the server PC, fetches data from I/O stations,
 stores the data into DB, implements automatic time-periodical report generation
-(reports are stored into \*.xlsx files and are sent via e-mail)
+(reports are stored into \*.xlsx files and sent via e-mail)
+
+- **arbmon.exe** - big central display - runs on a client PC
+( 4 displays Ultra HD 4K 3840×2160 resolution - see pics) and shows real-time data
+(reads data from DB)
+
+- **arterm.exe** - local terminal, runs on a client PC (operator's seat)
+(reads/writes data from/into DB)
+
+### Auxilliary folders:
+
+**..\dist\ARNEG_ESMS** - compiled programs<br/>
+**..\PICS** - big central display on-site pitures<br/>
 
 
 
