@@ -61,7 +61,7 @@ configuring static data (daily schedules), (reads/writes data from/into DB)
 
 ---
 
-![]PICS/1647029280100.jpg
+![](PICS/1647029280100.jpg)
 
 
 
