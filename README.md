@@ -59,6 +59,10 @@ configuring static data (daily schedules), (reads/writes data from/into DB)
 **..\dist\ARNEG_ESMS** - скомпилированные утилиты<br/>
 **..\PICS** - фото центрального монитора<br/>
 
+---
+
+![]..PICS/1647029280100.jpg
+
 
 
 
